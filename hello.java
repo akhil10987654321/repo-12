@@ -1,8 +1,9 @@
-class hello () #from dev2
+class hello () # from dev1
 {
-	public void main () #from dev2
+	public void main () # from dev1
+
 	{
-	system.out.println("hello modified")
+	system.out.println("hello modified from dev1")
 	
 	} # from dev2
 }
